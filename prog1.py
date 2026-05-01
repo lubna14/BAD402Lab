@@ -1,4 +1,3 @@
-
 class WaterJugState: 
     def __init__(self, jug1, jug2): 
         self.jug1 = jug1 
