@@ -1,4 +1,3 @@
-PROGRAM2: 
 from queue import PriorityQueue 
 # Define the state class for the Missionaries and Cannibals Problem 
 class State: 
